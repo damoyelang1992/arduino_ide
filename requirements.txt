@@ -1,0 +1,15 @@
+flask
+flask-login
+flask-openid
+flask-mail
+flask-sqlalchemy
+flask-wtf
+mysql-python
+pymysql
+wheel
+requests
+oss2==2.2.0
+paho-mqtt
+pymongo==2.8
+uwsgi==2.0.14
+gunicorn==19.6.0
